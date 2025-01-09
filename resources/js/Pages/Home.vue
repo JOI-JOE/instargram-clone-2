@@ -84,7 +84,6 @@ onMounted(() => {
                             <span class="-mt-5 ml-2 mr-[5px] text-[35px]"
                                 >.</span
                             >
-                            <!-- ạklasjflkasjkfjaskf -->
                             <div>DATE HERE</div>
                         </div>
                     </div>
@@ -113,6 +112,8 @@ onMounted(() => {
                     View all 4 comment
                 </button>
             </div>
+
+            <div class="pb-20"></div>
         </div>
     </MainLayout>
 </template>
